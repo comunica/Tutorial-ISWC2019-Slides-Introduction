@@ -221,6 +221,11 @@ li.inactive {
     border-bottom: solid 1px var(--color-light);
 }
 
+.slide .bordered {
+    border-top: solid 1px var(--color-light);
+    border-bottom: solid 1px var(--color-light);
+}
+
 .slide th.title,
 .slide td.title {
     border-right: solid 1px var(--color-light);
